@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
   $schema: "http://json.schemastore.org/prettierrc",
   printWidth: 80,
   semi: false,
